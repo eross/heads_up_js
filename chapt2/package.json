@@ -1,0 +1,17 @@
+{
+  "name": "chapt2",
+  "version": "1.0.0",
+  "description": "Chapter 2 -- prompt",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "react": "^18.2.0"
+  }
+}
